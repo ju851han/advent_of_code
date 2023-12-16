@@ -1,2 +1,2 @@
-# # Advent Of Code
+# Advent Of Code
 URL: https://adventofcode.com/
