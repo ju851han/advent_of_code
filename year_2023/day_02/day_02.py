@@ -8,7 +8,7 @@ if __name__ == '__main__':
     MAX_NUMBER_CUBES_GREEN = 13
     MAX_NUMBER_CUBES_BLUE = 14
 
-    data = get_file_content("example_part2.txt")
+    data = get_file_content("puzzle_input.txt")
     lines = data.split("\n")
     valid_game_ids = []
     power = []
